@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-color: rgb(9, 18, 20);
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
 }
 
 h5 {
-  background-color: beige;
+  background-color: rgb(146, 146, 56);
   font-size: large;
   text-align: center;
 }
